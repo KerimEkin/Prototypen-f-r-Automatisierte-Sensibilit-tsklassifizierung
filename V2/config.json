@@ -1,0 +1,13 @@
+{
+  "documents_dir": "S:/SBE intern/04-ISMS",
+  "output_dir": "V:/penv/output",
+  "output_file": "classified_documents.csv",
+  "output_image": "clusters.png",
+  "directory_structure_pdf": "V:/penv/output/directory_structure.pdf",
+  "keywords_files": {
+    "TLP:RED": "V:/penv/keywords/tlp_red_keywords.txt",
+    "TLP:AMBER": "V:/penv/keywords/tlp_amber_keywords.txt",
+    "TLP:GREEN": "V:/penv/keywords/tlp_green_keywords.txt",
+    "TLP:WHITE": "V:/penv/keywords/tlp_white_keywords.txt"
+  }
+}

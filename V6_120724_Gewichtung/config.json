@@ -1,0 +1,30 @@
+{
+  "documents_dir": "S:/SBE intern/04-ISMS",
+  "output_dir": "V:/penv/output",
+  "output_file": "classified_documents.csv",
+  "output_image": "clusters.png",
+  "directory_structure_pdf": "V:/penv/output/directory_structure.pdf",
+  "training_directories": {
+    "RED": "V:/penv/training/red",
+    "AMBER": "V:/penv/training/amber",
+    "GREEN": "V:/penv/training/green",
+    "WHITE": "V:/penv/training/white"
+  },
+  "keyword_files": {
+    "RED": "V:/penv/keywords/tlp_red_keywords.txt",
+    "AMBER": "V:/penv/keywords/tlp_amber_keywords.txt",
+    "GREEN": "V:/penv/keywords/tlp_green_keywords.txt",
+    "WHITE": "V:/penv/keywords/tlp_white_keywords.txt"
+  },
+  "tlp_colors": {
+    "RED": "red",
+    "AMBER": "orange",
+    "GREEN": "green",
+    "WHITE": "gray",
+    "UNKNOWN": "black",
+    "CLUSTER_0": "red",
+    "CLUSTER_1": "orange",
+    "CLUSTER_2": "green",
+    "CLUSTER_3": "gray"
+  }
+}
